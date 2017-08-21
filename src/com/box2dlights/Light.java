@@ -1,4 +1,4 @@
-package box2dLight;
+package com.box2dlights;
 
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.Mesh;

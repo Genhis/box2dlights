@@ -4,6 +4,7 @@
 .idea/
 libs/
 target/
+bin/
 *.class
 *.jar
 *.iml

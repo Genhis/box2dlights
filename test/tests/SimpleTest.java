@@ -1,7 +1,7 @@
 package tests;
 
-import box2dLight.PointLight;
-import box2dLight.RayHandler;
+import com.box2dlights.PointLight;
+import com.box2dlights.RayHandler;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;

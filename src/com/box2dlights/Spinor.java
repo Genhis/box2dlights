@@ -1,4 +1,4 @@
-package box2dLight;
+package com.box2dlights;
 
 import com.badlogic.gdx.math.MathUtils;
 import com.badlogic.gdx.utils.StringBuilder;

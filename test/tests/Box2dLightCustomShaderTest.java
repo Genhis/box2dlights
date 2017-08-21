@@ -1,6 +1,6 @@
 package tests;
 
-import box2dLight.*;
+import com.box2dlights.*;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
